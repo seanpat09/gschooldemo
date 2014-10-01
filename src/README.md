@@ -1,1 +1,0 @@
-[ ![Codeship Status for seanpat09/gschooldemo](https://www.codeship.io/projects/054024f0-2beb-0132-888f-4e920c8e46d6/status)](https://www.codeship.io/projects/38713)
